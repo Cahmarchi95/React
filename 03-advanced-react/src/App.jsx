@@ -1,9 +1,9 @@
-import UseStateGotcha from "./tutorial/01-useState/starter/05-useState-gotcha";
+import MultipleEffects from "./tutorial/02-useEffect/starter/03-multiple-effects"; 
 
 function App() {
   return (
-    <div className='container'>
-      <UseStateGotcha/>
+    <div className="container">
+      <MultipleEffects />
     </div>
   );
 }
