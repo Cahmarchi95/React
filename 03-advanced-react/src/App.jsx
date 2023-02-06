@@ -1,9 +1,9 @@
-import Example from "./tutorial/03-conditional-rendering/starter/03-hooks-rule"; 
+import ToggleChallenge from "./tutorial/03-conditional-rendering/starter/06-toggle-challenge"; 
 
 function App() {
   return (
     <div className="container">
-      <Example />
+      <ToggleChallenge />
     </div>
   );
 }
