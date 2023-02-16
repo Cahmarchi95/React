@@ -1,10 +1,9 @@
-import List from "./tutorial/05-leverage-javascript/starter/List";
+import UserChallenge from "./tutorial/06-forms/starter/02-user-challenge";
 
 function App() {
   return (
     <div className="container">
-      <h2>Leverage Javascript</h2>
-      <List/>
+      <UserChallenge/>
     </div>
   );
 }
